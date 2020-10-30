@@ -1,0 +1,110 @@
+.top-container{
+  text-align: center;
+  background-color: #f4f4f2;
+  margin-top: auto;
+  padding-top: 0px;
+}
+body{
+    background-color: #f6f5f5;
+}
+h1{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 6rem;
+  margin-bottom: 0;
+  margin-top: 0px;
+  padding-top: 4rem;
+
+}
+h3{
+  font-family: 'Gochi Hand', cursive;
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 3rem;
+
+}
+.tab {
+           padding-right: 3rem;
+           padding-left: 1rem;
+           padding-top: 3rem;
+           color: black;
+
+       }
+       a{
+         text-decoration: none;
+       }
+       a:link{
+         color: black;
+       }
+       a:hover{
+        text-decoration: underline;
+        color: black;
+       }
+a:visited{
+  color: black;
+}
+h2{
+  font-family: 'Acme', sans-serif;
+  padding-bottom: 1rem;
+  margin-bottom: 0px;
+  font-weight: lighter;
+  color: #1c2b2d;
+}
+hr{
+  border: dotted 6px;
+  border-bottom: none;
+  width: 50%;
+  margin: 0px auto;
+  align-self: center;
+}
+
+.middle-container{
+  background-color: #f6f5f5;
+  width: 50%;
+  margin: 50px auto 2px auto;
+
+}
+
+h4
+{
+  margin-top: 0px;
+  font-size: 3rem;
+  padding-top: 2rem;
+
+  margin-bottom: 20px;
+}
+
+.profile{
+  width: 20%;
+  float: right;
+  margin-left: 1rem;
+
+
+
+
+   border: 5px solid black;
+}
+
+.tableclass{
+  font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+  text-align: left;
+}
+th,td{
+  padding-left: 2rem;
+  padding-top: 1rem;
+}
+.intro{
+font-size: 1.5rem;
+font-family: 'Poppins', sans-serif;
+}
+
+.bottom-container {
+  background-color: #f6f5f5;
+  margin-top: 0px;
+  text-align: center;
+  padding: 50px 0 20px;
+
+}
+.footer-link{
+  padding-right: 1rem;
+}
